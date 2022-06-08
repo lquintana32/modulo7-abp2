@@ -1,6 +1,6 @@
-Map del sitio:
+Mapa del sitio:
 
-Navbar tiene los accesos a las distintas urls de la aplicacion
+Sidebar tiene los accesos a las distintas urls de la aplicacion
 
 Home -- http://127.0.0.1:8000
 Es un landing page que permite navegar
@@ -8,10 +8,8 @@ Es un landing page que permite navegar
 Crear Usuario -- http://127.0.0.1:8000/crearusuario
 Formulario para crear User propios de Django que permite tambien elegir el grupo al que pertenecera ese User
 
-
 Ver Tickets -- http://127.0.0.1:8000/tickets
 Muestra al admin todos los tickets generados permitiendo cerrarlo con un comentario de "solucion"
-
 
 Ver Usuarios en Tabla -- http://127.0.0.1:8000/mostrarusuarios
 Muestra los usuarios creados en una tabla con css y bootstrap
